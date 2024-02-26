@@ -1,4 +1,4 @@
-package com.springdemo.firstDemo;
+package com.springdemo.firstDemo.controllers;
 
 import java.util.concurrent.atomic.AtomicLong;
 
